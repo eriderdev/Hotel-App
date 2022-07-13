@@ -20,19 +20,19 @@ namespace FinalProject_Phase1
                 fun1(ref num);
             MessageBox.Show(num.ToString());*/
 
-            List<string> items = new List<string>();
+            /*List<string> items = new List<string>();
             items.Add("Com");
             items.Add("Keyboards");
-            items.Add("Mon");
+            items.Add("Mon");*/
 
-            foreach (string item in items)
+            /*foreach (string item in items)
             {
                 if (item == "Keyboards")
                 {
                     continue;
                 }
                 MessageBox.Show(item);
-            }
+            }*/
                     
                     
             
